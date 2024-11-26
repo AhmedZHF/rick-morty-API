@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rich-morty-API/static/css/main.f4113152.chunk.css",
+    "main.js": "/rich-morty-API/static/js/main.495977ef.chunk.js",
+    "main.js.map": "/rich-morty-API/static/js/main.495977ef.chunk.js.map",
+    "runtime-main.js": "/rich-morty-API/static/js/runtime-main.52eee51f.js",
+    "runtime-main.js.map": "/rich-morty-API/static/js/runtime-main.52eee51f.js.map",
+    "static/css/2.88761f2b.chunk.css": "/rich-morty-API/static/css/2.88761f2b.chunk.css",
+    "static/js/2.c2f4178e.chunk.js": "/rich-morty-API/static/js/2.c2f4178e.chunk.js",
+    "static/js/2.c2f4178e.chunk.js.map": "/rich-morty-API/static/js/2.c2f4178e.chunk.js.map",
+    "static/js/3.6dd79c6e.chunk.js": "/rich-morty-API/static/js/3.6dd79c6e.chunk.js",
+    "static/js/3.6dd79c6e.chunk.js.map": "/rich-morty-API/static/js/3.6dd79c6e.chunk.js.map",
+    "index.html": "/rich-morty-API/index.html",
+    "static/css/2.88761f2b.chunk.css.map": "/rich-morty-API/static/css/2.88761f2b.chunk.css.map",
+    "static/css/main.f4113152.chunk.css.map": "/rich-morty-API/static/css/main.f4113152.chunk.css.map",
+    "static/js/2.c2f4178e.chunk.js.LICENSE.txt": "/rich-morty-API/static/js/2.c2f4178e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52eee51f.js",
+    "static/css/2.88761f2b.chunk.css",
+    "static/js/2.c2f4178e.chunk.js",
+    "static/css/main.f4113152.chunk.css",
+    "static/js/main.495977ef.chunk.js"
+  ]
+}
